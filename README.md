@@ -19,4 +19,4 @@
  */
  
  
- This project is made for the master thesis of Rakel Helèn Jakobsen at The Norwegian University of Science and Technology (NTNU) spring 2018. The code origins from The Android Open Source Project. However, many big modifications has been done leading to an independent project. 
+ This project is made for the master thesis of Rakel Helèn Jakobsen at The Norwegian University of Science and Technology (NTNU) spring 2018. The code origins from The Android Open Source Project. However, many big modifications has been done making this an independent project. 
